@@ -1,0 +1,3 @@
+MARKA		MODEL		RENK		MOTOR HACMİ		ÜRETİM YILI
+renault		megane		beyaz		1500		2013
+	
